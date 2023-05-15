@@ -11,7 +11,7 @@ cómo hacerlo.
 
 > ¿Qué condiciones de uso otorga la licencia para código libre MIT? ¿Dónde se originó?
 
-### Respuesta
+La licencia creative commons BY-NC-SA 4.0 es de codigo abierto. Condicion BY; respetar la autoria de los contenidos citandola siempre, NC; no se puede lucrar con el contenido, SA; cualquier copia y/o modificación o material derivado del producto de esta licencia, se debe de citar la licencia.
 
 Responde aquí con no más de 6 lineas de texto.
 
@@ -19,7 +19,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 > ¿En qué consiste el código ético o los principios de la ciencia libre (*open science*)?
 
-### Respuesta
+Consiste en que el trabajo que realicen los cientificos y/o creadores de herramientas puedan compartir sus códigos y/o contenidos con el fin de que se puedan reproducir  y compartir con toda la comunidad a la que le interese. Lo anterior, contribuye a crear ciencia abierta que sea reproducible,  validado y por lo tanto confiable.
 
 Responde aquí con no más de 6 lineas de texto.
 
@@ -28,7 +28,7 @@ Responde aquí con no más de 6 lineas de texto.
 > ¿Existe alguna otro servicio en la nube para desarrollar en colaboración proyectos de código
 > libre?
 
-### Respuesta
+Si pueden crearse muchos repositorios, un ejemplo es el repositorio GitLab
 
 Responde aquí con no más de 6 lineas de texto.
 
@@ -36,7 +36,7 @@ Responde aquí con no más de 6 lineas de texto.
 
 > ¿Hace uso Netflix de GitHub? ¿Cúal es su repositorio?
 
-### Respuesta
+Si hace uso del repositorio Github
 
 Responde aquí con no más de 6 lineas de texto.
 
