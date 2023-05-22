@@ -7,12 +7,19 @@ Es un lenguaje de alto nivel de programación con lengiaje interpretado
 
 Pregunta 3. ¿Tiene Python repositorio en GitHub?
 
-Pregunta 4. ¿Qué ventajas tiene la programación modular?
+Pregunta 4. ¿Qué ventajas tiene la programación modular? 
+Dismunuye la complejidad de cualquier tipo de algoritmo haciendo más sencilla la programación.
+Simplifica el diseño de la programación
+Hace más équeño el tamaño del programa
+Ahorra mucho tiempo de programación
 
 Pregunta 5. ¿Qué es un lenguaje de programación orientado a objetos?
+Una manera de programar, dónde todo se base en la gestión de estos objetos.
+Se trata de un paradigma de la programación que pretende innovar la forma en la que se obtienen los resultados y modula el código para hacerlo más: reutilizable, organizado y sencillo de mantener
 
 Pregunta 6. ¿Puedes usar Jupyter Lab para programar en otro lenguaje que no sea Python?
+Sí, se puede usar en otros lenguajes, por ejemplo en R.
 
-Pregunta 7. ¿Qué diferencia hay entre Python, iPython y Jupyter Lab?
+Pregunta 7. ¿Qué diferencia hay entre Python, iPython y Jupyter Lab? Jupyther Lab
 
 Pregunta 8. ¿Qué es Jupyter Hub?
