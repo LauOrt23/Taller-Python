@@ -6,6 +6,7 @@ Pregunta 2. ¿En qué lenguaje está programado Python?
 Es un lenguaje de alto nivel de programación con lengiaje interpretado
 
 Pregunta 3. ¿Tiene Python repositorio en GitHub?
+ Si, los usuarios crean repositorios en GitHub para enseñar a programar en python
 
 Pregunta 4. ¿Qué ventajas tiene la programación modular? 
 Dismunuye la complejidad de cualquier tipo de algoritmo haciendo más sencilla la programación.
@@ -22,4 +23,5 @@ Sí, se puede usar en otros lenguajes, por ejemplo en R.
 
 Pregunta 7. ¿Qué diferencia hay entre Python, iPython y Jupyter Lab? Python es el lenguaje de programación, IPython y Jupyter Lab son interfases donde se puede aplicar códigos de Python pero de manera interactiav
 
-Pregunta 8. ¿Qué es Jupyter Hub?
+Pregunta 8. ¿Qué es Jupyter Hub? Es un acceso a entornos y recursos computacionales sin sobrecargar a los usuarios con tareas de instalación y mantenimiento.
+Los usuarios tienen sus propios espacios de trabajo en recursos compartidos que los administradores del sistema pueden administrar de manera eficiente.

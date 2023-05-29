@@ -1,0 +1,17 @@
+﻿Pregunta 1 ¿Qué condiciones de uso otorga la licencia para código libre MIT? ¿Dónde se originó?
+La licencia creative commons BY-NC-SA 4.0 es de código abierto. Condición BV; respetar la autoría de los contenidos citándola siempre, NC; no se puede lucrar con el contenido, SA; cualquier copia y/o modificación o material derivado del producto de esta licencia, se debe de citar la licencia.
+
+Pregunta 2. ¿En qué consiste el código ético o los principios de la licencia libre (*open source)?
+Consiste en que el trabajo que realicen los científicos y/o creadores de herramientas, puedan compartir sus códigos con el fin de que se puedan reproducir y compartir con toda la comunidad a la que le interese. Lo anterior, contribuye a la creación de ciencia abierta que sea reproducible, validada y por tanto confiable.
+
+Pregunta 3. ¿Existe algún otro servicio en la nube para desarrollar en colaboración proyectos de código libre?
+Si, se pueden crear muchos repositorios. Un ejemplo en GitLab
+
+Pregunta 4. ¿Hace uso Netflix de GitHub? Si
+
+Pregunta 5. ¿Qué es AlphaFold? ¿Si quisieras ver las tripas de su código y aprender cómo está construido... o si tuvieras una idea para modificar y mejorar AlphaFold... podrías hacerlo? ¿Cómo?
+AlphaFold es una inteligencia artificial capaz de predecir la estructura tridimensional de una proteína utilizando únicamente su secuencia de aminoácidos. Trabaja con código abierto y por lo tanto si se podría modificar, por ejemplo, se podría agregar información de secuencias de proteínas no descritas y que se hayan obtenido por técnicas experimentales
+
+
+
+¿Se puede patentar un software? No se puede patentar 
